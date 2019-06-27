@@ -1,0 +1,9 @@
+name: ResidencePrefix
+main: qianniancc.ResidencePrefix.Main
+version: 2.1
+depend: [Residence]
+commands:
+  rpreload:
+  rpset:
+  rpunset:
+  rplist:

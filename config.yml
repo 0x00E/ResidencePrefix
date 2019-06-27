@@ -1,0 +1,5 @@
+DefaultResidence: 'Welcome'
+DefaultPrefix: '&a&l可选前缀'
+SettingLength: 12
+TogglePrefix: true
+ToggleSuffix: false
